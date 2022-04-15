@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../practice/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../practice/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../practice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../practice/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../practice/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../practice/.idea/modules.xml" afterDir="false" />
@@ -9,19 +13,36 @@
       <change beforePath="$PROJECT_DIR$/../../practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../practice/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../practice/Studio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../practice/Studio.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../practice/out/production/Studio/Intro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../practice/out/production/Studio/Intro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/project1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../practice/project1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../practice/src/Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../practice/src/Intro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alchemunit.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/alchemunit-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFxApplication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFxApplication.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alchemunit_backup/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../alchemunit_backup/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alchemunit_backup/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../alchemunit_backup/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alchemunit_backup/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../alchemunit_backup/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alchemunit_backup/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../alchemunit_backup/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alchemunit_backup/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../alchemunit_backup/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alchemunit_backup/alchemunit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../alchemunit_backup/alchemunit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alchemunit_backup/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../alchemunit_backup/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alchemunit_backup/target/alchemunit-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../alchemunit_backup/target/alchemunit-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alchemunit_backup/target/alchemunit-1.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../alchemunit_backup/target/alchemunit-1.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alchemunit_backup/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../alchemunit_backup/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alchemunit_backup/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../alchemunit_backup/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alchemunit_backup/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../alchemunit_backup/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../unit-swap/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../unit-swap/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../unit-swap/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unit-swap/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../unit-swap/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unit-swap/.idea/jarRepositories.xml" afterDir="false" />
@@ -268,6 +289,7 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1650035621177" duration="126000" />
+      <workItem from="1650035838746" duration="1187000" />
     </task>
     <servers />
   </component>
@@ -306,9 +328,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
